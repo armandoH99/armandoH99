@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armandoH99
-- 👀 I’m interested in learning how to code
+- 👀 I’m interested in learning Front End
 - 🌱 I’m currently learning JavaScript, Web developing, nexjs
-- 💞️ I’m looking to collaborate on Python and JavaScripts projects
+- 💞️ I’m looking to collaborate on nextjs, JavaScripts projects, react and tailwind
 - 📫 How to reach me: write me an email
 
 <!---
