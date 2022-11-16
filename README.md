@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @armandoH99
-- 👀 I’m interested in learning Front End
-- 🌱 I’m currently learning React.Js typescript, keycloack and java
-- 💞️ I’m looking to collaborate on nextjs, JavaScript, reactjs and java projects
-- 📫 How to reach me: write me an email at armandohrb@gmail.com
+- 👋 Hi, I’m Armando
+- 👀 I have Front End knowledge
+- 🌱 I have some Back End knowledge
+- 💞️ I’m looking to collaborate on Next.js, JavaScript, React.js or Java projects
+- 📫 write me an email at armandohrb@gmail.com
 
 <!---
 armandoH99/armandoH99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
