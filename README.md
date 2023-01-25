@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Armando
-- 👀 I have Front End knowledge
-- 🌱 I have some Back End knowledge
-- 💞️ I’m looking to collaborate on Next.js, JavaScript, React.js or Java projects
+-    I’m looking to collaborate on Next.js, JavaScript, React.js or Java projects
 - 📫 write me an email at armandohrb@gmail.com
 
 <!---
