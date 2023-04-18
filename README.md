@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Armando
--    I’m looking to collaborate on Next.js, JavaScript, React.js or Java projects
-- 📫 write me an email at armandohrb@gmail.com
+
+DEMO [rick-and-morty](rick-and-morty-data-rust.vercel.app
+) 
 
 <!---
 armandoH99/armandoH99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
