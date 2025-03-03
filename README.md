@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Armando
 
-DEMO [rick-and-morty](https://rick-and-morty-data-rust.vercel.app/)
+
 
 
 <!---
